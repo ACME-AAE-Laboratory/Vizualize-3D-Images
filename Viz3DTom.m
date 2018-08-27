@@ -109,7 +109,7 @@ ylim = get(handles.axes1, 'YLim');
 
 data1=handles.data1;
 imagesc(handles.axes1, data1(:,:,floor(z)));
-
+colormap(handles.axes1, gray) %set the colormap for tomography
 set(handles.axes1, 'XLim', xlim);
 set(handles.axes1, 'YLim', ylim);
 
