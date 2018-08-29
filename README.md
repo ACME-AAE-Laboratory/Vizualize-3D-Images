@@ -1,5 +1,5 @@
 # Vizualize-3D-Images
-Simple tool to visualize a 3D image volume (like tomography data) in MATLAB for viewing and probing.
+Simple tool to visualize 3D image volumes (like tomography images and post-processed images) in MATLAB for viewing and probing.
 
 User will need to download both the '.m' and '.fig' and place them in the directory for use. Alternatively, user can place them in Documents>MATLAB to access them from any path when using MATLAB.
 
